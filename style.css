@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 /* General type rules */
 
@@ -21,7 +22,7 @@ a{
 /* Rules for headings */
 
 h1, h2, h3, h4, h5, h6{
-  font-family: "Merriweather", serif;
+  font-family: "Poppins", serif;
   color: #1D1F50;
   }
 
